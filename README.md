@@ -1,8 +1,16 @@
-# M31 Stability Simulations
+## How to Run
 
-Code to reproduce the kinematic tracer simulations in the preprint:
+1. Clone the repository:
+   ```
+   git clone https://github.com/Ahmet4721/M31-Stability.git
+   ```
 
-"Integrated Model of Stability in M31: Inner Braking, Resonance Coupling, and Observational Predictions" by Ahmet Keske (2025)
+2. Install requirements:
+   ```
+   pip install -r requirements.txt
+   ```
 
-## Usage
-Run the Python script to generate example orbits and stability tests.
+3. Run the simulation:
+   ```
+   python tracer_simulation.py
+   ```
