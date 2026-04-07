@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def generate_tracer_simulation(N=500, radius=10.0, vc=220.0, t_final=1.0, output_path="m31_tracer_simulation.png"):
+def generate_tracer_simulation(N=10000, radius=10.0, vc=220.0, t_final=1.0, output_path="m31_tracer_simulation.png"):
     """
     Generates a tracer particle simulation figure for M31 under a flat rotation curve.
     
