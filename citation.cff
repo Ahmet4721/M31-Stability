@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or simulation data in your research, please cite it as follows."
+authors:
+  - family-names: "Keske"
+    given-names: "Ahmet"
+    orcid: "https://orcid.org/0000-0000-2288-6680"
+title: "M31 Stability Framework: Unified Stability Chain Simulation Data"
+version: 1.0.0
+date-released: 2026-06-14
+url: "https://github.com/Ahmet4721/M31-Stability
+identifiers:
+  - description: "DOI for this research and data"
+    type: doi
+    value: "10.5281/zenodo.20569657"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Keske"
+      given-names: "Ahmet"
+  title: "A Unified Stability Chain for the Secular Evolution of M31"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  year: 2026
